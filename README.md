@@ -1,16 +1,16 @@
-#Next and Electron Boilerplate
+<h1>Next and Electron Boilerplate</h1>
 
-##Run the application with 
+<h2>Run the application with</h2>
 
 ```
 npm run start
 ```
-##To compile run
+<h2>To compile run</h2>
 
 ```
 npm run build
 ```
-###But first Instal
+<h2>But first Instal</h2>
 
 ```
 npm install electron-packager -g
