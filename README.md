@@ -16,6 +16,7 @@ npm run build
 npm install electron-packager -g
 ```
 
+<h2>Then Change</h2>
 
 ```json
 --app-version VERSION-YOUR-APP
